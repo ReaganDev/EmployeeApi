@@ -43,9 +43,9 @@ namespace EmployeeData
         public Employees UpdateEmployee(Employees employee, string id)
         {
             var existing = GetEmployeeById(id);
-            existing.FirstName = employee.FirstName == null ? existing.FirstName : employee.FirstName;
-            existing.LastName = employee.LastName == null ? existing.LastName : employee.LastName;
-            existing.Age = employee.Age == 0 ? existing.Age : employee.Age;
+            existing.FirstName = employee.FirstName;
+            existing.LastName = employee.LastName;
+            existing.Age = employee.Age;
             _context.SaveChanges();
             return existing;
         }

@@ -2,7 +2,6 @@ C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\bin\Debug\net5
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\bin\Debug\net5.0\EmployeeModel.dll
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\bin\Debug\net5.0\ref\EmployeeModel.dll
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\bin\Debug\net5.0\EmployeeModel.pdb
-C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\obj\Debug\net5.0\EmployeeModel.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\obj\Debug\net5.0\EmployeeModel.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\obj\Debug\net5.0\EmployeeModel.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\PROJECTS PLAYGROUND\EmployeeApi\EmployeeModel\obj\Debug\net5.0\EmployeeModel.AssemblyInfo.cs
